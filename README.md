@@ -1,6 +1,5 @@
 # Solar-Radiation-Prediction
-IMPORTANCE OF SOLAR RADIATION 
-PREDICTION?
+
 Solar resource forecasting is very important for the operation and management of solar 
 power plants. Solar radiation is highly variable because it is driven mainly by synoptic 
 and local weather patterns. This high variability presents challenges to meeting power 
